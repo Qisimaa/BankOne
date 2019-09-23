@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62798a34-21f5-4ca4-ac67-69f12404a709" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Config/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/impl/AccountImplDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/impl/CustomerImplDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/impl/IbanImplDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/impl/PercentageImplDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/impl/TrasactionImplDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/inter/AccountInterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/inter/CustomerInterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/inter/IbanInterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/inter/PercentageDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Dao/inter/TransactionInterDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Util/BankUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Util/CustomerUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Util/EmployerUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/Util/TransferUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/beans/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/beans/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/beans/Employeer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/beans/IbanClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/beans/Percentage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/beans/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/beans/TypeOfAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BankOne/beans/TypeOfTransfer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/BankOneEx.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/AccountImplDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/BankUtilTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/CustomerImplDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/CustomerUtilTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/EmployerUtilTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/IbanImplDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/PercentageImplDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/TransactionImplDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BankOne/TransferUtilTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/BankOneEx.kotlin_module" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="17" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/Shahin_Aliyev</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RFpm7L7hjyFb4tTfQf22arP0qY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Shahin_Aliyev" />
+      <recent name="$PROJECT_DIR$/src/main/java/Shahin_Aliyev" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in BankOneEx">
+    <configuration name="All in BankOneEx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankOneEx" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankOne in BankOneEx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankOneEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BankOne" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerUtilTest.loginCustomerIfPasswordNotvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankOneEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BankOne" />
+      <option name="MAIN_CLASS_NAME" value="BankOne.CustomerUtilTest" />
+      <option name="METHOD_NAME" value="loginCustomerIfPasswordNotvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerUtilTest.loginCustomerifEmailNotValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankOneEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BankOne" />
+      <option name="MAIN_CLASS_NAME" value="BankOne.CustomerUtilTest" />
+      <option name="METHOD_NAME" value="loginCustomerifEmailNotValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercentageImplDaoTest.getPercenateByAccountIfNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankOneEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BankOne" />
+      <option name="MAIN_CLASS_NAME" value="BankOne.PercentageImplDaoTest" />
+      <option name="METHOD_NAME" value="getPercenateByAccountIfNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shahin_Aliyev in BankOneEx" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="BankOneEx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shahin_Aliyev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Shahin_Aliyev" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in BankOneEx" />
+        <item itemvalue="JUnit.BankOne in BankOneEx" />
+        <item itemvalue="JUnit.PercentageImplDaoTest.getPercenateByAccountIfNull" />
+        <item itemvalue="JUnit.CustomerUtilTest.loginCustomerifEmailNotValid" />
+        <item itemvalue="JUnit.CustomerUtilTest.loginCustomerIfPasswordNotvalid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62798a34-21f5-4ca4-ac67-69f12404a709" name="Default Changelist" comment="" />
+      <created>1557697062969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557697062969</updated>
+      <workItem from="1557697066638" duration="582000" />
+      <workItem from="1557697712330" duration="22000" />
+      <workItem from="1557700269803" duration="2298000" />
+      <workItem from="1557704120904" duration="1716000" />
+      <workItem from="1557763197039" duration="41000" />
+      <workItem from="1558179144885" duration="6677000" />
+      <workItem from="1558268849998" duration="15137000" />
+      <workItem from="1558815357921" duration="11334000" />
+      <workItem from="1558961740481" duration="24000" />
+      <workItem from="1559247184207" duration="4768000" />
+      <workItem from="1559479075399" duration="49253000" />
+      <workItem from="1559564144621" duration="1870000" />
+      <workItem from="1560095192266" duration="17997000" />
+      <workItem from="1560113932623" duration="28000" />
+      <workItem from="1560125153720" duration="1684000" />
+      <workItem from="1560133280162" duration="2610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CustomerUtilTest_loginCustomerifEmailNotValid - 2019.06.10 at 02h 30m 51s.xml">
+      <configuration name="CustomerUtilTest.loginCustomerifEmailNotValid" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankOne_in_BankOneEx - 2019.06.10 at 02h 33m 14s.xml">
+      <configuration name="BankOne in BankOneEx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankOne_in_BankOneEx - 2019.06.10 at 02h 33m 57s.xml">
+      <configuration name="BankOne in BankOneEx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankOne_in_BankOneEx - 2019.06.10 at 04h 48m 59s.xml">
+      <configuration name="BankOne in BankOneEx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankOne_in_BankOneEx - 2019.06.10 at 05h 03m 06s.xml">
+      <configuration name="BankOne in BankOneEx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankOne_in_BankOneEx - 2019.06.10 at 05h 05m 04s.xml">
+      <configuration name="BankOne in BankOneEx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankOne_in_BankOneEx - 2019.06.10 at 05h 06m 02s.xml">
+      <configuration name="BankOne in BankOneEx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankOne_in_BankOneEx - 2019.06.10 at 05h 07m 33s.xml">
+      <configuration name="BankOne in BankOneEx" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PercentageImplDaoTest_getPercenateByAccountIfNull - 2019.06.10 at 05h 08m 14s.xml">
+      <configuration name="PercentageImplDaoTest.getPercenateByAccountIfNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BankOne_in_BankOneEx - 2019.06.10 at 05h 08m 24s.xml">
+      <configuration name="BankOne in BankOneEx" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116041000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Shahin_Aliyev/TransferUtilTest.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this.CGLIB$CALLBACK_1" custom="Shahin_Aliyev.Dao.impl.PercentageImplDao" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BankOneEx$BankUtilTest_genarateCustomerNumber.ic" NAME="BankUtilTest.genarateCustomerNumber Coverage Results" MODIFIED="1557752654891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Shahin_Aliyev.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankOneEx$IbanImplDaoTest.ic" NAME="IbanImplDaoTest Coverage Results" MODIFIED="1559529790357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Shahin_Aliyev.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankOneEx$BankOne_in_BankOneEx.ic" NAME="BankOne in BankOneEx Coverage Results" MODIFIED="1560136228394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>BankOne.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankOneEx$All_in_BankOneEx.ic" NAME="All in BankOneEx Coverage Results" MODIFIED="1558825845302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/BankOneEx$Shahin_Aliyev_Util_in_BankOneEx.ic" NAME="Shahin_Aliyev.Util in BankOneEx Coverage Results" MODIFIED="1559531561927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Shahin_Aliyev.Util.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankOneEx$CustomerImplDaoTest.ic" NAME="CustomerImplDaoTest Coverage Results" MODIFIED="1559529640049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Shahin_Aliyev.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankOneEx$Shahin_Aliyev_in_BankOneEx.ic" NAME="Shahin_Aliyev in BankOneEx Coverage Results" MODIFIED="1560112064136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Shahin_Aliyev.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankOneEx$CustomerUtilTest.ic" NAME="CustomerUtilTest Coverage Results" MODIFIED="1558825943184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Shahin_Aliyev.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankOneEx$AccountImplDaoTest.ic" NAME="AccountImplDaoTest Coverage Results" MODIFIED="1559529470474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Shahin_Aliyev.*</FILTER>
+    </SUITE>
+  </component>
+</project>
